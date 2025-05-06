@@ -14,9 +14,9 @@ This project is a prototype designed to convert either a **photo** or a **text p
 ## 🧠 Features
 
 - Accepts either an image or text prompt as input.
-- Generates a simple 3D mesh as output.
-- Utilizes AI-based generation techniques like NeRF or DreamFusion (planned or implemented).
-- Supports exporting to `.obj` or `.stl`.
+- Generates a simple 3D mesh as output using OpenAI's [Shape-E](https://github.com/openai/shap-e).
+- Supports exporting generated models to `.obj` or `.stl` format.
+- Provides a simple and reproducible pipeline in a single Jupyter notebook.
 
 ## 🔧 Requirements
 
