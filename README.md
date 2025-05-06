@@ -22,7 +22,6 @@ This project is a prototype designed to convert either a **photo** or a **text p
 
 Install the required Python packages before running:
 
-```bash
 pip install -r requirements.txt
 
 ## 🚀 Usage
@@ -38,7 +37,8 @@ pip install -r requirements.txt
 Follow the steps in the notebook to:
 
 3. Input a photo or a text prompt.
-    Run the model.
-    View/export the generated 3D model.
+   - Run the model.
+   - View/export the generated 3D model.
 
-## Demo videio - https://drive.google.com/file/d/14kHzmM9zzbbjVaUMR7gQMbH7C_AGaLf9/view?usp=sharing
+## Demo videio -
+https://drive.google.com/file/d/14kHzmM9zzbbjVaUMR7gQMbH7C_AGaLf9/view?usp=sharing
