@@ -34,7 +34,7 @@ pip install -r requirements.txt
 2. Open the notebook:
    ```bash
    jupyter notebook convertto3d.ipynb
-Follow the steps in the notebook to:
+Follow the steps in the notebook 
 
 3. Input a photo or a text prompt.
    - Run the model.
