@@ -3,13 +3,13 @@
 
 This project is a prototype designed to convert either a **photo** or a **text prompt** into a **basic 3D model** (`.obj` or `.stl` format) using Python and open-source AI/ML tools.
 
-> 💡 This is part of a selection round assignment to demonstrate 3D model generation using neural network-based pipelines.
+
 
 ## 📁 Contents
 
 - `convertto3d.ipynb`: Main Jupyter notebook containing the code pipeline.
 - `README.md`: Documentation for setup and usage.
-- 'Input and Output': Sample input and output.
+- `Input and Output`: Sample input and output.
 
 ## 🧠 Features
 
