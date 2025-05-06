@@ -40,5 +40,5 @@ Follow the steps in the notebook
    - Run the model.
    - View/export the generated 3D model.
 
-## Demo videio -
+## Demo video -
 https://drive.google.com/file/d/14kHzmM9zzbbjVaUMR7gQMbH7C_AGaLf9/view?usp=sharing
